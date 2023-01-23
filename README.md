@@ -1,4 +1,3 @@
-<p style="color:blue;">test</p>
 - 👋 Hi, I’m @RomanKornyeyev
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
