@@ -1,4 +1,4 @@
-<h1 style="color: blue;">test</h1>
+<h1 style="color:blue;text-align:center;">test</h1>
 - 👋 Hi, I’m @RomanKornyeyev
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
