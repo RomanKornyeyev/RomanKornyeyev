@@ -1,4 +1,3 @@
-<h1 style="color:blue;text-align:center;font-size:50px !important;">test</h1>
 - 👋 Hi, I’m @RomanKornyeyev
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
