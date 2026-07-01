@@ -1,20 +1,27 @@
 <h1 align="center">Hola 👋, soy Roman Kornyeyev</h1>
 <h3 align="center">Backend Developer · Especializado en PHP & Symfony · +2.5 años de experiencia</h3>
 
+<p align="center">
+  <a href="https://romank.es/">
+    <img src="https://img.shields.io/badge/Portfolio-romank.es-4C1D95?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 ---
 
-### 🧑‍💻 Sobre mí
+### Sobre mí
 
 - 🔭 Desarrollador con **+2.5 años de experiencia** construyendo aplicaciones web.
 - ⚙️ Especializado en **PHP** y **Symfony**, con experiencia en **Laravel**.
 - 💡 También trabajo con **C#** y **Vue.js**.
 - 🗄️ Buen manejo de bases de datos relacionales: **MySQL**, **MariaDB** y **SQL Server**.
 - 🌱 Siempre aprendiendo y mejorando mis habilidades en desarrollo web.
+- 🌐 Porfolio: **[romank.es](https://romank.es/)**
 - 📫 Contacto: **romankr1997@gmail.com**
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### Tecnologías y herramientas
 
 **Lenguajes y frameworks**
 
@@ -50,7 +57,7 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Estadísticas de GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RomanKornyeyev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
@@ -63,7 +70,8 @@
 
 ---
 
-### 📫 Cómo contactarme
+### Contacto
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-romank.es-4C1D95?style=for-the-badge&logo=googlechrome&logoColor=white)](https://romank.es/)
 [![Email](https://img.shields.io/badge/Email-romankr1997@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romankr1997@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roman%20Kornyeyev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-kornyeyev/)
